@@ -1,0 +1,15 @@
+.site-card-border-less-wrapper{
+    width: 100%;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+   
+}
+.ant-card-head-title{
+    color: #fff;
+}
+.card{
+    color: #fff;
+    width: 800px;
+    background-color: #2f3640
+}
